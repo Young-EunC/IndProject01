@@ -73,3 +73,13 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Imported External Assets
+/[Aa]ssets/[Ii]mports
+/[Aa]ssets/[Ii]mports.meta
+/[Aa]ssets/[Ii]mports/*
+
+# Unity URP Tutorial
+/[Aa]ssets/URPTutorial
+/[Aa]ssets/URPTutorial.meta
+/[Aa]ssets/URPTutorial/*
